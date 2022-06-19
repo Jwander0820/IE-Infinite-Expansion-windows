@@ -168,3 +168,4 @@ dmypy.json
 
 
 ## except to ignore
+!/img/*
